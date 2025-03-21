@@ -1,1 +1,1 @@
-discord
+﻿discord.py==2.5.2
